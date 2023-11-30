@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Computer 1",
+    "specs": {
+      "processor": ["intel", "11300F"],
+      "videocard": ["AMD", "RX5700XT"],
+      "RAM": ["Kingston", "16GB"],
+      "motherboard": ["ASUS", "ROG Strix B560-F Gaming"]
+    }
+  },
+  {
+    "name": "Computer 2",
+    "specs": {
+      "processor": ["AMD", "Ryzen 5 5600X"],
+      "videocard": ["NVIDIA", "RTX 3060"],
+      "RAM": ["Corsair", "32GB"],
+      "motherboard": ["MSI", "MAG B550 Tomahawk"]
+    }
+  },
+  {
+    "name": "Computer 3",
+    "specs": {
+      "processor": ["Intel", "i9-11900K"],
+      "videocard": ["NVIDIA", "RTX 3080"],
+      "RAM": ["G.Skill", "64GB"],
+      "motherboard": ["Gigabyte", "Z590 AORUS Elite AX"]
+    }
+  },
+  {
+    "name": "Computer 4",
+    "specs": {
+      "processor": ["AMD", "Ryzen 7 5800X"],
+      "videocard": ["AMD", "RX 6800 XT"],
+      "RAM": ["Crucial", "32GB"],
+      "motherboard": ["ASRock", "B550 Steel Legend"]
+    }
+  },
+  {
+    "name": "Computer 5",
+    "specs": {
+      "processor": ["Intel", "Core i7-12700K"],
+      "videocard": ["NVIDIA", "RTX 3070 Ti"],
+      "RAM": ["TeamGroup", "32GB"],
+      "motherboard": ["EVGA", "Z690 FTW WiFi"]
+    }
+  }
+]
