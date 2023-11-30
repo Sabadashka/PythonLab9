@@ -2,7 +2,7 @@
   {
     "name": "Computer 1",
     "specs": {
-      "processor": ["intel", "11300F"],
+      "processor": ["Intel", "11300F"],
       "videocard": ["AMD", "RX5700XT"],
       "RAM": ["Kingston", "16GB"],
       "motherboard": ["ASUS", "ROG Strix B560-F Gaming"]
